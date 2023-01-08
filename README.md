@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cillianbissett
 - 👀 I’m interested in methods that help us build better software faster 
-- 🌱 I’m currently learning a lot of Azure-related technologies
+- 🌱 I’m currently learning a lot of Azure-related technologies ... unfortunately, that is where I keep most of my code!
 - 💞️ In terms of coding, I'm looking to improve how I structure the way I work
 - 📫 How to reach me ... on here :)
 
