@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cillianbissett
-- 👀 I’m interested in methods that help us build better software faster 
-- 🌱 I’m currently learning a lot of Azure-related technologies ... unfortunately, that is where I keep most of my code!
-- 💞️ In terms of coding, I'm looking to improve how I structure the way I work
-- 📫 How to reach me ... on here :)
+- Hi, I’m @cillianbissett
+- I turned from a data scientist into a cloud engineer, where I have been for the last number of years
+- If you want to talk to me, please reach out on LinkedIn
 
 <!---
 cillianbissett/cillianbissett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
